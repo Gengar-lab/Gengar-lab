@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/Xoti-lab/">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Xoti-lab&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Xoti-lab&theme=chartreuse-dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/Xoti-lab/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoti-lab&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
