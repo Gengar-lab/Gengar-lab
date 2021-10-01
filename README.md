@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Xoti-lab/Xoti-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gengar-lab/Gengar-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Xoti-lab/">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Xoti-lab&theme=chartreuse-dark&show_icons=true&bg_color=0D1117&hide_border=true">
+<a href="https://github.com/Gengar-lab/">
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Gengar-lab&theme=chartreuse-dark&show_icons=true&bg_color=0D1117&hide_border=true">
 </a>
-<a href="https://github.com/Xoti-lab/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoti-lab&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
+<a href="https://github.com/Gengar-lab/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gengar-lab&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
